@@ -1,5 +1,4 @@
 # CafeMenu-FREECODECAMP
-# Café Menu Project
 
 This project is a responsive web design for a café menu, created as part of the FreeCodeCamp Responsive Web Design certification.
 
